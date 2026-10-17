@@ -1,0 +1,79 @@
+@import "tailwindcss";
+
+@theme {
+  --color-canvas: #faf8ff;
+  --color-surface: #ffffff;
+  --color-line: #c3c6d7;
+  --color-line-soft: #e5e6ee;
+  --color-ink: #131b2e;
+  --color-body: #434655;
+  --color-muted: #515f74;
+  --color-subtle: #6f7282;
+  --color-primary: #004ac6;
+  --color-primary-hover: #003ea8;
+  --color-action: #2563eb;
+  --color-action-hover: #1d4ed8;
+  --color-chip: #eaedff;
+  --color-chip-soft: #f2f3ff;
+  --color-chip-strong: #e2e7ff;
+  --color-success-bg: #f0fdf4;
+  --color-success-line: #bbf7d0;
+  --color-success-fg: #166534;
+  --color-live: #10b981;
+
+  --radius-card: 4px;
+  --radius-chip: 2px;
+  --radius-tile: 8px;
+
+  --text-h1: 1.75rem;
+  --text-h1--line-height: 2.125rem;
+  --text-title: 1.0625rem;
+  --text-title--line-height: 1.5rem;
+  --text-card: 1rem;
+  --text-card--line-height: 1.5rem;
+  --text-body: 0.875rem;
+  --text-body--line-height: 1.375rem;
+  --text-small: 0.8125rem;
+  --text-small--line-height: 1.25rem;
+  --text-badge: 0.75rem;
+  --text-badge--line-height: 1rem;
+  --text-label: 0.6875rem;
+  --text-label--line-height: 1rem;
+}
+
+@theme inline {
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-jetbrains-mono), ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+@layer base {
+  html {
+    color-scheme: light;
+  }
+
+  body {
+    background-color: var(--color-canvas);
+    color: var(--color-body);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: var(--color-ink);
+  }
+
+  *:focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+}
