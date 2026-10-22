@@ -21,8 +21,8 @@ export function Avatar({
   className,
 }: AvatarProps) {
   const initials = getInitials(name);
-  const backgroundColor = colors?.background ?? "#d5e3fc";
-  const color = colors?.foreground ?? "#004ac6";
+  const backgroundColor = colors?.background ?? "#e2ede5";
+  const color = colors?.foreground ?? "#184e38";
 
   return (
     <div
