@@ -33,8 +33,8 @@ export const students: Student[] = [
     recordId: "0948-CS-AM",
     lastValidated: "2024-10-24",
     avatar: {
-      background: "#d5e3fc",
-      foreground: "#003ea8",
+      background: "#e2ede5",
+      foreground: "#184e38",
     },
   },
   {
@@ -69,8 +69,8 @@ export const students: Student[] = [
     recordId: "0951-DS-ER",
     lastValidated: "2024-10-22",
     avatar: {
-      background: "#dae2fd",
-      foreground: "#434655",
+      background: "#f6ebd6",
+      foreground: "#78350f",
     },
   },
   {
@@ -105,8 +105,8 @@ export const students: Student[] = [
     recordId: "0955-BU-MC",
     lastValidated: "2024-10-21",
     avatar: {
-      background: "#ffdbcd",
-      foreground: "#360f00",
+      background: "#fae7dc",
+      foreground: "#7c2d12",
     },
   },
   {
@@ -141,8 +141,8 @@ export const students: Student[] = [
     recordId: "0962-CS-PS",
     lastValidated: "2024-10-23",
     avatar: {
-      background: "#d5e3fc",
-      foreground: "#0d1c2e",
+      background: "#ece7dc",
+      foreground: "#443928",
     },
   },
   {
@@ -177,8 +177,8 @@ export const students: Student[] = [
     recordId: "0970-DS-LD",
     lastValidated: "2024-10-22",
     avatar: {
-      background: "#ffdad6",
-      foreground: "#93000a",
+      background: "#fbe6e3",
+      foreground: "#7f1d1d",
     },
   },
   {
@@ -213,8 +213,8 @@ export const students: Student[] = [
     recordId: "0978-BU-ML",
     lastValidated: "2024-10-23",
     avatar: {
-      background: "#e2e7ff",
-      foreground: "#131b2e",
+      background: "#eaece0",
+      foreground: "#3f4722",
     },
   },
   {
@@ -249,8 +249,8 @@ export const students: Student[] = [
     recordId: "0985-CS-TA",
     lastValidated: "2024-10-24",
     avatar: {
-      background: "#dbe1ff",
-      foreground: "#00174b",
+      background: "#dfeedb",
+      foreground: "#164e2d",
     },
   },
   {
@@ -285,8 +285,8 @@ export const students: Student[] = [
     recordId: "0992-CS-SM",
     lastValidated: "2024-10-21",
     avatar: {
-      background: "#d2d9f4",
-      foreground: "#131b2e",
+      background: "#eae7df",
+      foreground: "#262b27",
     },
   },
 ];
