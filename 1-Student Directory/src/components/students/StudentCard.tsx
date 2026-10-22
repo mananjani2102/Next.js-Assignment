@@ -35,7 +35,7 @@ export function StudentCard(props: StudentCardProps) {
       <Card
         padding="md"
         className={cn(
-          "relative flex flex-col justify-between hover:border-subtle transition-colors group",
+          "relative flex flex-col justify-between hover:border-subtle hover:shadow-[0_4px_12px_rgba(20,23,20,0.06)] transition-all group",
           className
         )}
       >
@@ -80,7 +80,7 @@ export function StudentCard(props: StudentCardProps) {
     <Card
       padding="md"
       className={cn(
-        "relative flex flex-col justify-between hover:border-subtle transition-colors group",
+        "relative flex flex-col justify-between hover:border-subtle hover:shadow-[0_4px_12px_rgba(20,23,20,0.06)] transition-all group",
         className
       )}
     >
