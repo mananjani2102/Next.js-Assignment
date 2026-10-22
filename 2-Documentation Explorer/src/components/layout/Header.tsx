@@ -30,7 +30,7 @@ export function Header({ searchEntries, docs, guides }: HeaderProps) {
               className="w-6 h-6 rounded-xs shrink-0"
               aria-hidden="true"
             >
-              <rect width="32" height="32" fill="#3525cd" />
+              <rect width="32" height="32" fill="#184e38" />
               <path
                 d="M9 10l6 6-6 6"
                 fill="none"
