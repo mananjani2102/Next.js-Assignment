@@ -10,7 +10,7 @@ export const specializations: Specialization[] = [
       "Design, testing, and maintenance of large software systems, with emphasis on team practice and code quality.",
     academicLead: "Prof. Helena Brandt",
     coreLab: "Turing Hall 215",
-    curriculumCycle: "2024–2025",
+    curriculumCycle: "2024-2025",
   },
   {
     slug: "artificial-intelligence",
@@ -21,7 +21,7 @@ export const specializations: Specialization[] = [
       "Machine learning, probabilistic modelling, and the evaluation of intelligent systems.",
     academicLead: "Prof. Anil Kapoor",
     coreLab: "Turing Hall 310",
-    curriculumCycle: "2024–2025",
+    curriculumCycle: "2024-2025",
   },
   {
     slug: "systems-infrastructure",
@@ -32,7 +32,7 @@ export const specializations: Specialization[] = [
       "Operating systems, networking, databases, and the reliability of large-scale computing infrastructure.",
     academicLead: "Prof. Yusuf Demir",
     coreLab: "Turing Hall 120",
-    curriculumCycle: "2024–2025",
+    curriculumCycle: "2024-2025",
   },
   {
     slug: "web-development",
@@ -43,7 +43,7 @@ export const specializations: Specialization[] = [
       "Focusing on modern frontend architectures, full-stack frameworks, reactive interfaces, and distributed web APIs.",
     academicLead: "Prof. Elena Vance",
     coreLab: "Turing Hall 408",
-    curriculumCycle: "2024–2025 Revised",
+    curriculumCycle: "2024-2025 Revised",
   },
   {
     slug: "interaction-design",
@@ -54,7 +54,7 @@ export const specializations: Specialization[] = [
       "Interface behaviour, prototyping, and accessible interaction patterns for digital products.",
     academicLead: "Prof. Sofia Marchetti",
     coreLab: "Atelier 102",
-    curriculumCycle: "2024–2025",
+    curriculumCycle: "2024-2025",
   },
   {
     slug: "visual-communication",
@@ -65,7 +65,7 @@ export const specializations: Specialization[] = [
       "Typography, layout, identity systems, and the communication of complex information.",
     academicLead: "Prof. Tomas Novak",
     coreLab: "Atelier 204",
-    curriculumCycle: "2024–2025",
+    curriculumCycle: "2024-2025",
   },
   {
     slug: "ux-research",
@@ -76,7 +76,7 @@ export const specializations: Specialization[] = [
       "Usability testing, field research, and the translation of findings into design decisions.",
     academicLead: "Prof. Amara Osei",
     coreLab: "Atelier 310",
-    curriculumCycle: "2024–2025",
+    curriculumCycle: "2024-2025",
   },
   {
     slug: "strategic-management",
@@ -87,7 +87,7 @@ export const specializations: Specialization[] = [
       "Competitive strategy, operations, and organisational decision making.",
     academicLead: "Prof. Gregory Whitfield",
     coreLab: "Whitmore Hall 120",
-    curriculumCycle: "2024–2025",
+    curriculumCycle: "2024-2025",
   },
   {
     slug: "financial-technology",
@@ -98,7 +98,7 @@ export const specializations: Specialization[] = [
       "Payment systems, digital lending, and the regulation of financial software.",
     academicLead: "Prof. Lena Haddad",
     coreLab: "Whitmore Hall 305",
-    curriculumCycle: "2024–2025",
+    curriculumCycle: "2024-2025",
   },
   {
     slug: "business-analytics",
@@ -109,6 +109,6 @@ export const specializations: Specialization[] = [
       "Statistical modelling, forecasting, and data driven management.",
     academicLead: "Prof. Kenji Watanabe",
     coreLab: "Whitmore Hall 410",
-    curriculumCycle: "2024–2025",
+    curriculumCycle: "2024-2025",
   },
 ];
