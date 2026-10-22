@@ -116,7 +116,7 @@ export default async function StudentProfilePage({ params }: PageProps) {
         <Card padding="xl" as="article" className="mt-5">
           {/* Card Header */}
           <div className="flex items-center gap-4">
-            <Avatar name={student.name} size="lg" />
+            <Avatar name={student.name} size="lg" colors={student.avatar} />
             <div className="flex flex-col">
               <h1 className="text-h1 font-semibold text-ink tracking-tight">
                 {student.name}
