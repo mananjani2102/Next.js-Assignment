@@ -15,8 +15,8 @@ export interface ButtonProps {
 }
 
 const variantStyles: Record<"primary" | "secondary", string> = {
-  primary: "bg-action text-white hover:bg-action-hover",
-  secondary: "bg-surface text-muted border border-line hover:bg-canvas hover:text-ink",
+  primary: "bg-action text-white hover:bg-action-hover shadow-[0_1px_2px_rgba(20,23,20,0.08)]",
+  secondary: "bg-surface text-muted border border-line hover:bg-canvas hover:text-ink shadow-[0_1px_2px_rgba(20,23,20,0.03)]",
 };
 
 const sizeStyles: Record<"sm" | "md", string> = {
