@@ -1,25 +1,25 @@
 @import "tailwindcss";
 
 @theme {
-  --color-canvas: #faf8ff;
+  --color-canvas: #f8f7f4;
   --color-surface: #ffffff;
-  --color-line: #c3c6d7;
-  --color-line-soft: #e5e6ee;
-  --color-ink: #131b2e;
-  --color-body: #434655;
-  --color-muted: #515f74;
-  --color-subtle: #6f7282;
-  --color-primary: #004ac6;
-  --color-primary-hover: #003ea8;
-  --color-action: #2563eb;
-  --color-action-hover: #1d4ed8;
-  --color-chip: #eaedff;
-  --color-chip-soft: #f2f3ff;
-  --color-chip-strong: #e2e7ff;
-  --color-success-bg: #f0fdf4;
-  --color-success-line: #bbf7d0;
-  --color-success-fg: #166534;
-  --color-live: #10b981;
+  --color-line: #e2ded4;
+  --color-line-soft: #edebe4;
+  --color-ink: #121714;
+  --color-body: #3a403c;
+  --color-muted: #5a625d;
+  --color-subtle: #808782;
+  --color-primary: #184e38;
+  --color-primary-hover: #123d2b;
+  --color-action: #1b533c;
+  --color-action-hover: #13402d;
+  --color-chip: #ebe8df;
+  --color-chip-soft: #f3f1ea;
+  --color-chip-strong: #e2ded4;
+  --color-success-bg: #edf5ef;
+  --color-success-line: #bddcbd;
+  --color-success-fg: #164e2d;
+  --color-live: #227a48;
 
   --radius-card: 4px;
   --radius-chip: 2px;
