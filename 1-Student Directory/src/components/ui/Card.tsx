@@ -26,7 +26,7 @@ export function Card({
   return (
     <Component
       className={cn(
-        "bg-surface border border-line rounded-card",
+        "bg-surface border border-line rounded-card shadow-[0_1px_2px_rgba(20,23,20,0.03)]",
         paddingStyles[padding],
         className
       )}
